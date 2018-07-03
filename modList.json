@@ -22,7 +22,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "木の伐採効率化"
+		"description": "木の伐採効率化"
 	},
 	{
 		"available": "1",
@@ -30,7 +30,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "回路系前提"
+		"description": "回路系前提"
 	},
 	{
 		"available": "1",
@@ -38,7 +38,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "回路系ベース"
+		"description": "回路系ベース"
 	},
 	{
 		"available": "1",
@@ -46,7 +46,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "回路系ワイヤ"
+		"description": "回路系ワイヤ"
 	},
 	{
 		"available": "1",
@@ -54,7 +54,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "回路系集積回路"
+		"description": "回路系集積回路"
 	},
 	{
 		"available": "1",
@@ -62,7 +62,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "回路系ライト"
+		"description": "回路系ライト"
 	},
 	{
 		"available": "1",
@@ -70,7 +70,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "植生追加"
+		"description": "植生追加"
 	},
 	{
 		"available": "1",
@@ -78,7 +78,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "小物装飾類追加"
+		"description": "小物装飾類追加"
 	},
 	{
 		"available": "1",
@@ -86,7 +86,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "新ワールド追加"
+		"description": "新ワールド追加"
 	},
 	{
 		"available": "1",
@@ -94,7 +94,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "鉄道関係追加"
+		"description": "鉄道関係追加"
 	},
 	{
 		"available": "1",
@@ -102,7 +102,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "和風ブロック追加"
+		"description": "和風ブロック追加"
 	},
 	{
 		"available": "1",
@@ -110,7 +110,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "家具追加"
+		"description": "家具追加"
 	},
 	{
 		"available": "1",
@@ -118,7 +118,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "建材ブロック追加"
+		"description": "建材ブロック追加"
 	},
 	{
 		"available": "1",
@@ -126,7 +126,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "レシピ等大量追加"
+		"description": "レシピ等大量追加"
 	},
 	{
 		"available": "1",
@@ -134,7 +134,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "作物追加"
+		"description": "作物追加"
 	},
 	{
 		"available": "1",
@@ -142,7 +142,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "植物拡張"
+		"description": "植物拡張"
 	},
 	{
 		"available": "1",
@@ -150,7 +150,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "工業化"
+		"description": "工業化"
 	},
 	{
 		"available": "1",
@@ -158,7 +158,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "建設および輸送の高度化"
+		"description": "建設および輸送の高度化"
 	},
 	{
 		"available": "1",
@@ -166,7 +166,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "駅システム追加"
+		"description": "駅システム追加"
 	},
 	{
 		"available": "1",
@@ -174,7 +174,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "RMT前提"
+		"description": "RMT前提"
 	},
 	{
 		"available": "1",
@@ -182,7 +182,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "電車追加"
+		"description": "電車追加"
 	},
 	{
 		"available": "1",
@@ -190,7 +190,7 @@
 		"version": "",
 		"url": "",
 		"required": "1",
-		"description", "ブロック大規模編集"
+		"description": "ブロック大規模編集"
 	},
 	{
 		"available": "1",
@@ -198,7 +198,7 @@
 		"version": "",
 		"url": "",
 		"required": "0",
-		"description", "日本語入力"
+		"description": "日本語入力"
 	},
 	{
 		"available": "1",
@@ -206,7 +206,7 @@
 		"version": "",
 		"url": "",
 		"required": "0",
-		"description", "レシピ表示"
+		"description": "レシピ表示"
 	},
 	{
 		"available": "1",
@@ -214,7 +214,7 @@
 		"version": "",
 		"url": "",
 		"required": "0",
-		"description", "葉っぱフサフサ"
+		"description": "葉っぱフサフサ"
 	},
 	{
 		"available": "1",
@@ -222,6 +222,6 @@
 		"version": "",
 		"url": "",
 		"required": "0",
-		"description", "軽量化"
+		"description": "軽量化"
 	}
 ]

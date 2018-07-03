@@ -1,0 +1,227 @@
+[
+	{
+		"available": "ダウンロードする:1, しない:その他",
+		"name": "modの名称",
+		"version": "modの適正バージョン(わかる範囲)(空欄可)",
+		"url": "modのダウンロードURL",
+		"required": "必須:1, オプション:0",
+		"description": "modの説明(簡潔に)(空欄可)",
+		"_comment": "{$m_ver}→「1.7.10」{$f_ver}→「10.13.4」{$f_rev}→「1558」{$ver}→「versionの値」"
+	},
+	{
+		"available": "1",
+		"name": "dualhotbar",
+		"version": "1.6",
+		"url": "https://media.forgecdn.net/files/2212/352/dualhotbar-{$m_ver}-{$ver}.jar",
+		"required": "1",
+		"description": "手持ちインベントリを2段にする"
+	},
+	{
+		"available": "1",
+		"name": "CutAll",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "木の伐採効率化"
+	},
+	{
+		"available": "1",
+		"name": "MrTJPCore",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "回路系前提"
+	},
+	{
+		"available": "1",
+		"name": "ProjectRed(Base)",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "回路系ベース"
+	},
+	{
+		"available": "1",
+		"name": "ProjectRed(Integration)",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "回路系ワイヤ"
+	},
+	{
+		"available": "1",
+		"name": "ProjectRed(Fabrication)",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "回路系集積回路"
+	},
+	{
+		"available": "1",
+		"name": "ProjectRed(Lighting)",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "回路系ライト"
+	},
+	{
+		"available": "1",
+		"name": "Biomes O' Plenty",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "植生追加"
+	},
+	{
+		"available": "1",
+		"name": "AppleMilkTea2",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "小物装飾類追加"
+	},
+	{
+		"available": "1",
+		"name": "Twilight Forest",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "新ワールド追加"
+	},
+	{
+		"available": "1",
+		"name": "Railcraft",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "鉄道関係追加"
+	},
+	{
+		"available": "1",
+		"name": "Bamboo",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "和風ブロック追加"
+	},
+	{
+		"available": "1",
+		"name": "BiblioCraft",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "家具追加"
+	},
+	{
+		"available": "1",
+		"name": "vostok_ModernArchi",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "建材ブロック追加"
+	},
+	{
+		"available": "1",
+		"name": "Gany's surface",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "レシピ等大量追加"
+	},
+	{
+		"available": "1",
+		"name": "PeacePlantCraft",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "作物追加"
+	},
+	{
+		"available": "1",
+		"name": "Plant-Mega-Mod",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "植物拡張"
+	},
+	{
+		"available": "1",
+		"name": "industrialcraft",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "工業化"
+	},
+	{
+		"available": "1",
+		"name": "BuildCraft",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "建設および輸送の高度化"
+	},
+	{
+		"available": "1",
+		"name": "StationsMod",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "駅システム追加"
+	},
+	{
+		"available": "1",
+		"name": "NGTLib",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "RMT前提"
+	},
+	{
+		"available": "1",
+		"name": "RMT",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "電車追加"
+	},
+	{
+		"available": "1",
+		"name": "MCTE",
+		"version": "",
+		"url": "",
+		"required": "1",
+		"description", "ブロック大規模編集"
+	},
+	{
+		"available": "1",
+		"name": "intellinput",
+		"version": "",
+		"url": "",
+		"required": "0",
+		"description", "日本語入力"
+	},
+	{
+		"available": "1",
+		"name": "CraftGuide",
+		"version": "",
+		"url": "",
+		"required": "0",
+		"description", "レシピ表示"
+	},
+	{
+		"available": "1",
+		"name": "BetterFoliage",
+		"version": "",
+		"url": "",
+		"required": "0",
+		"description", "葉っぱフサフサ"
+	},
+	{
+		"available": "1",
+		"name": "Optifine",
+		"version": "",
+		"url": "",
+		"required": "0",
+		"description", "軽量化"
+	}
+]
